@@ -8,6 +8,8 @@
         height: 2000px;
     }
 
+
+    
     .icon-bar {
         position: fixed;
         top: 50%;
